@@ -241,4 +241,4 @@ This repository serves as the official landing page for Yabause. The software is
 **Get the most recent version of Yabause today!**
 
 ---
-**Last updated:** 2026-11-01 08:41:56 UTC
+**Last updated:** 2026-11-01 15:45:00 UTC
